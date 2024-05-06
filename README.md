@@ -7,4 +7,5 @@ This project combined my use of Twitter with my interest in the stock market and
 <img width="1476" alt="image" src="https://github.com/carlstedt1/Elon-Musk-Sentiment-Tracker/assets/83810044/bf20e1fa-969d-4937-873a-a3c1f7a3e1b0">
 <img width="1478" alt="image" src="https://github.com/carlstedt1/Elon-Musk-Sentiment-Tracker/assets/83810044/4289ba1e-40a2-4fe4-ad59-bb3e6b1f8606">
 <img width="1113" alt="image" src="https://github.com/carlstedt1/Elon-Musk-Sentiment-Tracker/assets/83810044/924f683a-e417-4062-b851-8417b3a4a081">
-Se more in the Presentation!
+See more in the Presentation!
+
